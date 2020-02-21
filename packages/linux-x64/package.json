@@ -1,0 +1,12 @@
+{
+  "name": "@nwjs-binaries/linux-x64",
+  "version": "0.44.2-sdk",
+  "license": "MIT",
+  "main": "index.js",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ]
+}

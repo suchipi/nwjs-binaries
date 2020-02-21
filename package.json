@@ -1,0 +1,8 @@
+{
+	"private": true,
+	"workspaces": [
+		"packages/linux-x64",
+		"packages/osx-x64",
+		"packages/win-x64"
+	]
+}
