@@ -1,3 +1,3 @@
 var path = require("path");
 
-module.exports = path.join(__dirname, "nwjs-sdk-v0.44.2-win-x64", "nw.exe");
+module.exports = path.join(__dirname, "nwjs-sdk-v0.61.0-win-x64", "nw.exe");
