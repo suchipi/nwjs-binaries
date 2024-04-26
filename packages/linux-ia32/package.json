@@ -1,12 +1,12 @@
 {
-  "name": "@nwjs-binaries/win-x64",
+  "name": "@nwjs-binaries/linux-ia32",
   "version": "0.87.0-sdk",
   "license": "MIT",
   "main": "index.js",
   "os": [
-    "win32"
+    "linux"
   ],
   "cpu": [
-    "x64"
+    "ia32"
   ]
 }

@@ -1,8 +1,11 @@
 {
-	"private": true,
-	"workspaces": [
-		"packages/linux-x64",
-		"packages/osx-x64",
-		"packages/win-x64"
-	]
+  "private": true,
+  "workspaces": [
+    "packages/linux-ia32",
+    "packages/linux-x64",
+    "packages/osx-arm64",
+    "packages/osx-x64",
+    "packages/win-ia32",
+    "packages/win-x64"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@nwjs-binaries/win-x64",
+  "name": "@nwjs-binaries/win-ia32",
   "version": "0.87.0-sdk",
   "license": "MIT",
   "main": "index.js",
@@ -7,6 +7,6 @@
     "win32"
   ],
   "cpu": [
-    "x64"
+    "ia32"
   ]
 }
