@@ -8,5 +8,8 @@
   ],
   "cpu": [
     "ia32"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
