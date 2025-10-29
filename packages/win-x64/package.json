@@ -1,6 +1,6 @@
 {
   "name": "@nwjs-binaries/win-x64",
-  "version": "0.87.0-sdk",
+  "version": "0.105.0-sdk",
   "license": "MIT",
   "main": "index.js",
   "os": [
